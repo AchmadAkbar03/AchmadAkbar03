@@ -1,0 +1,18 @@
+body {
+  background-color: #020101;
+}
+.jumbotron {
+  padding-top: 6rem;
+}
+#about {
+  padding-top: 4rem;
+}
+#project .card {
+  background-color: #29b0ff;
+}
+#skill .card {
+  background-color: #29b0ff;
+}
+section {
+  padding-top: 5rem;
+}
